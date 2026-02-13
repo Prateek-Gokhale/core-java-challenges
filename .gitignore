@@ -1,9 +1,10 @@
 # Compiled class files
 *.class
 
-# IntelliJ IDEA files
+# IntelliJ / VS Code
 .idea/
 *.iml
+.vscode/
 
 # Build folders
 out/
